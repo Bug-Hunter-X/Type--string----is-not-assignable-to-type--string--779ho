@@ -1,0 +1,1 @@
+This repository contains a demonstration of a common TypeScript error: Argument of type 'string[]' is not assignable to parameter of type 'string'. The bug.ts file shows the error, while bugSolution.ts provides a solution.
